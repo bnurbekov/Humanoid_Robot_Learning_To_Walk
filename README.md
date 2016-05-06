@@ -1,3 +1,7 @@
+Demo
+========
+Video: https://youtu.be/ljwVBU90XW4
+
 Synopsis
 ========
 This project is the first attempt in the world to apply Central Pattern Generators to compliant humanoid robots, such as Atlas. 
