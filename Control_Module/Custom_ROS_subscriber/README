@@ -1,0 +1,3 @@
+Please use the following command in Matlab to build this .mexw64 file (custom ROS subscriber):
+
+ROS_sub/ROS_sub.cpp ROS_sub/stdafx.cpp ROS_sub/dllmain.cpp -IC:/opt/rosdeps/hydro/x64/include/ -IC:/opt/ros/hydro/x64/include/ -I. -LC:/opt/rosdeps/hydro/x64/lib/ -LC:/opt/ros/hydro/x64/lib/ -DROS_BUILD_SHARED_LIBS=1 -lroscpp -lroscpp_serialization -lrosconsole -lrostime
