@@ -20,7 +20,7 @@ The system was tested in Gazebo and on the real robot.
 
 System Overview
 ===============
-<img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/System_Overview.png" width="350"/>
+<img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/MQPSystem.png" width="350"/>
 
 Installation
 ============
