@@ -4,7 +4,7 @@ This project is the first attempt in the world to apply Central Pattern Generato
 
 Atlas is shown below.
 
-<img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/Boston-Dynamics-Atlas.jpg" width="350"/>
+<img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/Images/Boston-Dynamics-Atlas.jpg" width="350"/>
 
 Demonstration
 ========
@@ -26,7 +26,7 @@ The system was tested in Gazebo and on the real robot.
 
 System Overview
 ===============
-<img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/MQPSystem.png" width="350"/>
+<img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/Images/MQPSystem.png" width="350"/>
 
 Central Pattern Generator
 ===============
@@ -41,7 +41,7 @@ Consists of the following layers:
 
 The high-level scheme of the Central Pattern Generator is shown below.
 
-<img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/CPG_overview.jpg" width="350"/>
+<img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/Images/CPG_overview.jpg" width="350"/>
 
 Learning
 ========
@@ -56,7 +56,7 @@ The purpose of this module:
 
 The high-level illustration of the algorithm is shown below.
 
-<img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/CMA_ES_illustration.png" width="350"/>
+<img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/Images/CMA_ES_illustration.png" width="350"/>
 
 Qualitative Adaptive Reward Learning
 ------------------------------------
@@ -66,7 +66,7 @@ The purpose of this module:
 
 The high-level illustration of the algorithm is shown below.
 
-<img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/SOM_illustration.png" width="350"/>
+<img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/Images/SOM_illustration.png" width="350"/>
 
 Installation
 ============
