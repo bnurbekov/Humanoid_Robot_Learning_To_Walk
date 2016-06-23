@@ -1,6 +1,6 @@
 Demo
 ========
-Video: https://youtu.be/ljwVBU90XW4
+[![Demo](https://img.youtube.com/vi/ljwVBU90XW4/0.jpg)](https://www.youtube.com/watch?v=ljwVBU90XW4)
 
 Synopsis
 ========
