@@ -1,12 +1,16 @@
-Demo
-========
-Video:
-
-[![Demo](https://img.youtube.com/vi/ljwVBU90XW4/0.jpg)](https://www.youtube.com/watch?v=ljwVBU90XW4)
-
 Synopsis
 ========
-This project is the first attempt in the world to apply Central Pattern Generators (combined with a novel learning algorithm) to compliant humanoid robots, such as Atlas. 
+This project is the first attempt in the world to apply Central Pattern Generators (combined with a novel learning algorithm) to compliant humanoid robots, such as Atlas.
+
+Atlas is shown below.
+
+<img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/Boston-Dynamics-Atlas.jpg" width="350"/>
+
+Demo
+========
+Please click to the image below to see video demonstration.
+
+[![Demo](https://img.youtube.com/vi/ljwVBU90XW4/0.jpg)](https://www.youtube.com/watch?v=ljwVBU90XW4)
 
 Motivation
 ==========
