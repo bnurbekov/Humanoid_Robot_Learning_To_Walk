@@ -33,6 +33,10 @@ Consists of the following layers:
 1. Rhythmic generator layer generates synchronized oscillatory movements.
 2. Pattern formation and motor neuron layers incorporate afferent sensory feedback for movement modulation [1]. 
 
+The high-level scheme of the Central Pattern Generator is shown below.
+
+<img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/CPG_illustration.jpg" width="200"/>
+
 Learning
 ========
 Parameters for CPG are learnt by
@@ -44,11 +48,19 @@ Covariance Matrix Adaptation – Evolutionary Strategies
 The purpose of this module:
 + learn set of parameters for CPG that lead to stable walking gate initially
 
+The high-level illustration of the algorithm is shown below.
+
+<img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/CMA_ES_illustration.png" width="350"/>
+
 Qualitative Adaptive Reward Learning
 ------------------------------------
 The purpose of this module:
 + memorizing a particular region in parameter (state) space that leads to success/failure;
 + finding global optimal set of parameters in success region after failure region is learnt.
+
+The high-level illustration of the algorithm is shown below.
+
+<img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/SOM_illustration.png" width="350"/>
 
 Installation
 ============
