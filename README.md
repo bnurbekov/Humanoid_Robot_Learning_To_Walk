@@ -6,7 +6,7 @@ Atlas is shown below.
 
 <img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/Boston-Dynamics-Atlas.jpg" width="350"/>
 
-Demo
+Demonstration
 ========
 Please click to the image below to see video demonstration.
 
