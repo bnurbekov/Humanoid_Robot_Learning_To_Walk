@@ -27,10 +27,28 @@ Central Pattern Generator
 The purpose of this module:
 + reducing a state (parameter) space from 100 states to an average of 10 states;
 + generating rhythmic patterns.
+
 Consists of the following layers:
+
 1. Rhythmic generator layer generates synchronized oscillatory movements.
 2. Pattern formation and motor neuron layers incorporate afferent sensory feedback for movement modulation [1]. 
 
+Learning
+========
+Parameters for CPG are learnt by
++ CMA-ES (learning);
++ Kohonen self-organizing maps (memory) → Success, Failure Map.
+
+Covariance Matrix Adaptation – Evolutionary Strategies
+------------------------------------------------------
+The purpose of this module:
++ learn set of parameters for CPG that lead to stable walking gate initially
+
+Qualitative Adaptive Reward Learning
+------------------------------------
+The purpose of this module:
++ memorizing a particular region in parameter (state) space that leads to success/failure;
++ finding global optimal set of parameters in success region after failure region is learnt.
 
 Installation
 ============
