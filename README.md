@@ -18,6 +18,10 @@ Simulink was chosen to implement the control module (please see included report 
 
 The system was tested in Gazebo and on the real robot.
 
+System Overview
+===============
+<img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/System_Overview.png" width="350"/>
+
 Installation
 ============
 As this was a school project, it was not meant to be distributed and used. Nonetheless, it's certainly possible to recreate the environment used. The Simulink diagram and the Python modules will have to modified in that case to use proper ROS topics. Also, the .mex file for the custom ROS subscriber will have to be recompiled (the compilation command is included into the repo).
