@@ -35,7 +35,7 @@ Consists of the following layers:
 
 The high-level scheme of the Central Pattern Generator is shown below.
 
-<img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/CPG_illustration.jpg" width="200"/>
+<img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/CPG_overview.jpg" width="350"/>
 
 Learning
 ========
