@@ -22,6 +22,16 @@ System Overview
 ===============
 <img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/MQPSystem.png" width="350"/>
 
+Central Pattern Generator
+===============
+The purpose of this module:
++ reducing a state (parameter) space from 100 states to an average of 10 states;
++ generating rhythmic patterns.
+Consists of the following layers:
+1. Rhythmic generator layer generates synchronized oscillatory movements.
+2. Pattern formation and motor neuron layers incorporate afferent sensory feedback for movement modulation [1]. 
+
+
 Installation
 ============
 As this was a school project, it was not meant to be distributed and used. Nonetheless, it's certainly possible to recreate the environment used. The Simulink diagram and the Python modules will have to modified in that case to use proper ROS topics. Also, the .mex file for the custom ROS subscriber will have to be recompiled (the compilation command is included into the repo).
