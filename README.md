@@ -43,6 +43,8 @@ The high-level scheme of the Central Pattern Generator is shown below.
 
 <img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/Images/CPG_overview.jpg" width="350"/>
 
+Please see the Wikipedia article (https://en.wikipedia.org/wiki/Central_pattern_generator) and the report (Documentation/MQP_final_report.docx) for more details.
+
 Learning
 ========
 Parameters for CPG are learnt by
@@ -58,7 +60,7 @@ The high-level illustration of the algorithm is shown below.
 
 <img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/Images/CMA_ES_illustration.png" width="350"/>
 
-More details can be found on wiki (https://en.wikipedia.org/wiki/CMA-ES) and in the report (Documentation/MQP_final_report.docx)
+Please see the Wikipedia article (https://en.wikipedia.org/wiki/CMA-ES) and the report (Documentation/MQP_final_report.docx) for more details.
 
 Qualitative Adaptive Reward Learning
 ------------------------------------
@@ -70,7 +72,7 @@ The high-level illustration of the algorithm is shown below.
 
 <img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/Images/SOM_illustration.png" width="350"/>
 
-More details can be found on wiki (https://en.wikipedia.org/wiki/Self-organizing_map) and in the report (Documentation/MQP_final_report.docx).
+Please see the Wikipedia article (https://en.wikipedia.org/wiki/Self-organizing_map) and the report (Documentation/MQP_final_report.docx) for more details.
 
 Installation
 ============
