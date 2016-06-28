@@ -58,6 +58,8 @@ The high-level illustration of the algorithm is shown below.
 
 <img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/Images/CMA_ES_illustration.png" width="350"/>
 
+More details can be found on wiki (https://en.wikipedia.org/wiki/CMA-ES) and in the report (Documentation/MQP_final_report.docx)
+
 Qualitative Adaptive Reward Learning
 ------------------------------------
 The purpose of this module:
@@ -67,6 +69,8 @@ The purpose of this module:
 The high-level illustration of the algorithm is shown below.
 
 <img src="https://github.com/bnurbekov/Humanoid_Robot_Learning_To_Walk/blob/master/Images/SOM_illustration.png" width="350"/>
+
+More details can be found on wiki (https://en.wikipedia.org/wiki/Self-organizing_map) and in the report (Documentation/MQP_final_report.docx).
 
 Installation
 ============
